@@ -7,33 +7,27 @@ Hello! I am a passionate DevOps Engineer with a strong background in software de
 ## Skills
 
 - **Continuous Integration/Continuous Deployment (CI/CD):** Proficient in setting up CI/CD pipelines using tools like Jenkins, GitLab CI,Github actions or CircleCI to automate the build, test, and deployment process.
+
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
 ![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
-
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 - **Containerization and Orchestration:** Experienced in Docker to containerize applications and Kubernetes for efficient container orchestration and scaling.
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 - **Infrastructure as Code (IaC):** Skilled in writing infrastructure code using tools like Terraform or CloudFormation to create and manage cloud resources.
 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 - **Cloud Technologies:** Knowledgeable in working with major cloud platforms such as AWS, Azure, or Google Cloud, leveraging their services for scalable and cost-effective solutions.
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 - **Monitoring and Logging:** Familiar with monitoring systems like Prometheus, Grafana, and ELK stack to gain insights into application and infrastructure performance.
@@ -44,16 +38,13 @@ Hello! I am a passionate DevOps Engineer with a strong background in software de
 - **Version Control:** Proficient in Git and experienced in branching strategies, code reviews, and collaborative development.
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
 - **Scripting and Automation:** Skilled in scripting languages like Bash, Python, or PowerShell to automate repetitive tasks.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
